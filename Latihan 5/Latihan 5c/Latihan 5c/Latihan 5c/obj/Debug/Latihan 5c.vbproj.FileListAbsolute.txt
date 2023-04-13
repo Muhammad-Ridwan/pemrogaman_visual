@@ -1,0 +1,11 @@
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\bin\Debug\Latihan 5c.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\bin\Debug\Latihan 5c.exe
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\bin\Debug\Latihan 5c.pdb
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\bin\Debug\Latihan 5c.xml
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\obj\Debug\Latihan 5c.vbprojResolveAssemblyReference.cache
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\obj\Debug\Latihan_5c.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\obj\Debug\Latihan_5c.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\obj\Debug\Latihan 5c.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\obj\Debug\Latihan 5c.exe
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\obj\Debug\Latihan 5c.xml
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\Latihan 5c\Latihan 5c\obj\Debug\Latihan 5c.pdb
