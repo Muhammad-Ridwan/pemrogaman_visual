@@ -1,0 +1,10 @@
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\bin\Debug\Praktikum 5b.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\obj\Debug\Praktikum_5b.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\obj\Debug\Praktikum_5b.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\obj\Debug\Praktikum 5b.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\obj\Debug\Praktikum 5b.xml
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\bin\Debug\Praktikum 5b.exe
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\bin\Debug\Praktikum 5b.pdb
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\bin\Debug\Praktikum 5b.xml
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\obj\Debug\Praktikum 5b.exe
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\Praktikum 5b\Praktikum 5b\obj\Debug\Praktikum 5b.pdb
