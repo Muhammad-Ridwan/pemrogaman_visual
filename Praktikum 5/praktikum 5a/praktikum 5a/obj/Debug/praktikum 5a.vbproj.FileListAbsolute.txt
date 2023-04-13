@@ -1,0 +1,11 @@
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\bin\Debug\praktikum 5a.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\bin\Debug\praktikum 5a.exe
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\bin\Debug\praktikum 5a.pdb
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\bin\Debug\praktikum 5a.xml
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\obj\Debug\praktikum 5a.vbprojResolveAssemblyReference.cache
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\obj\Debug\praktikum_5a.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\obj\Debug\praktikum_5a.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\obj\Debug\praktikum 5a.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\obj\Debug\praktikum 5a.exe
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\obj\Debug\praktikum 5a.xml
+C:\SEMESTER 6\Pemrogaman Visual\Praktikum 5\praktikum 5a\praktikum 5a\obj\Debug\praktikum 5a.pdb
