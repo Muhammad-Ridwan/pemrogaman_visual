@@ -1,0 +1,10 @@
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\bin\Debug\latihan 5b.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\bin\Debug\latihan 5b.exe
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\bin\Debug\latihan 5b.pdb
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\bin\Debug\latihan 5b.xml
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\obj\Debug\latihan_5b.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\obj\Debug\latihan_5b.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\obj\Debug\latihan 5b.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\obj\Debug\latihan 5b.exe
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\obj\Debug\latihan 5b.xml
+C:\SEMESTER 6\Pemrogaman Visual\Latihan 5\latihan 5b\latihan 5b\obj\Debug\latihan 5b.pdb
