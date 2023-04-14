@@ -1,0 +1,11 @@
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\bin\Debug\Tugas 5.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\obj\Debug\Tugas 5.vbprojResolveAssemblyReference.cache
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\obj\Debug\Tugas_5.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\obj\Debug\Tugas_5.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\obj\Debug\Tugas 5.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\bin\Debug\Tugas 5.exe
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\bin\Debug\Tugas 5.pdb
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\bin\Debug\Tugas 5.xml
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\obj\Debug\Tugas 5.exe
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\obj\Debug\Tugas 5.xml
+C:\SEMESTER 6\Pemrogaman Visual\Tugas 5\Tugas 5\Tugas 5\obj\Debug\Tugas 5.pdb
