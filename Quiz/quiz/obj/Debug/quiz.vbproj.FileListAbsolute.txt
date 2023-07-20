@@ -1,0 +1,30 @@
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\bin\Debug\quiz.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.vbprojResolveAssemblyReference.cache
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.xml
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\bin\Debug\quiz.exe
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\bin\Debug\quiz.pdb
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\bin\Debug\quiz.xml
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\bin\Debug\MySql.Data.dll
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\bin\Debug\Newtonsoft.Json.dll
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\bin\Debug\Newtonsoft.Json.xml
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.exe
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.pdb
+C:\SEMESTER 6\Pemrogaman Visual\quiz\quiz\obj\Debug\quiz.Form2.resources
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\bin\Debug\quiz.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.exe
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.xml
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.pdb
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.vbprojResolveAssemblyReference.cache
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.Form2.resources
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\obj\Debug\quiz.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\bin\Debug\quiz.exe
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\bin\Debug\quiz.pdb
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\bin\Debug\quiz.xml
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\bin\Debug\MySql.Data.dll
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\bin\Debug\Newtonsoft.Json.dll
+C:\SEMESTER 6\Pemrogaman Visual\quiz_Muhammad Ridwan_200511135_D\quiz\bin\Debug\Newtonsoft.Json.xml
