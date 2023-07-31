@@ -34,9 +34,9 @@ class Rawatjalan
         return $result_set;
     }
 
-    public function get_by_nrp(int $nrp)
+    public function get_by_no_recmd(int $no_recmd)
     {
-        $query = "SELECT * FROM $this->table WHERE nrp = $nrp";
+        $query = "SELECT * FROM $this->table WHERE no_recmd = $no_recmd";
         $result_set = $this->db->query($query);
         return $result_set;
     }
@@ -57,10 +57,10 @@ class Rawatjalan
         return $this->db->affected_rows();
     }
 
-    public function update_by_nrp($nrp): int
+    public function update_by_no_recmd($no_recmd): int
     {
-        $query = "UPDATE $this->table SET no_recmd = '$this->no_recmd', nama = '$this->nama', nama_dokter = '$this->nama_dokter',
-        biaya = '$this->biaya', hasil_diagnosa = '$this->hasil_diagnosa', harga_obat = '$this->harga_obat', total = '$this->total' WHERE nrp = $nrp";
+        $query = "UPDATE $this->table SET nrp = '$this->nrp', nama = '$this->nama', nama_dokter = '$this->nama_dokter',
+        biaya = '$this->biaya', hasil_diagnosa = '$this->hasil_diagnosa', harga_obat = '$this->harga_obat', total = '$this->total' WHERE no_recmd = $no_recmd";
         $this->db->query($query);
         return $this->db->affected_rows();
     }
@@ -72,9 +72,9 @@ class Rawatjalan
         return $this->db->affected_rows();
     }
 
-    public function delete_by_nrp($nrp): int
+    public function delete_by_no_recmd($no_recmd): int
     {
-        $query = "DELETE FROM $this->table WHERE nrp = $nrp";
+        $query = "DELETE FROM $this->table WHERE no_recmd = $no_recmd";
         $this->db->query($query);
         return $this->db->affected_rows();
     }
