@@ -1,0 +1,17 @@
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\bin\Debug\apprawatjalan.exe.config
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.vbprojResolveAssemblyReference.cache
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.Form1.resources
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.Resources.resources
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.vbproj.GenerateResource.Cache
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.xml
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\bin\Debug\apprawatjalan.exe
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\bin\Debug\apprawatjalan.pdb
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\bin\Debug\apprawatjalan.xml
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\bin\Debug\MySql.Data.dll
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.exe
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.pdb
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.Form2.resources
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\bin\Debug\Newtonsoft.Json.dll
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\bin\Debug\Newtonsoft.Json.xml
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.Form3.resources
+C:\SEMESTER 6\Pemrogaman Visual\apprawatjalan\apprawatjalan\obj\Debug\apprawatjalan.Form4.resources
