@@ -6,7 +6,7 @@ $db = new MySQLDatabase();
 $rawat_jalan = new Rawatjalan($db);
 
 $id = 0;
-$nrp = 0;
+$no_recmd = 0;
 
 // Check the HTTP request method
 $method = $_SERVER['REQUEST_METHOD'];
@@ -17,14 +17,14 @@ switch ($method) {
         if (isset($_GET['id'])) {
             $id = $_GET['id'];
         }
-        if (isset($_GET['nrp'])) {
-            $nrp = $_GET['nrp'];
+        if (isset($_GET['no_recmd'])) {
+            $no_recmd = $_GET['no_recmd'];
         }
         
         if ($id > 0) {
             $result = $rawat_jalan->get_by_id($id);
-        } elseif ($nrp > 0) {
-            $result = $rawat_jalan->get_by_nrp($nrp);
+        } elseif ($no_recmd > 0) {
+            $result = $rawat_jalan->get_by_no_recmd($no_recmd);
         } else {
             $result = $rawat_jalan->get_all();
         }
@@ -72,8 +72,8 @@ switch ($method) {
         if (isset($_GET['id'])) {
             $id = $_GET['id'];
         }
-        if (isset($_GET['nrp'])) {
-            $nrp = $_GET['nrp'];
+        if (isset($_GET['no_recmd'])) {
+            $no_recmd = $_GET['no_recmd'];
         }
         $rawat_jalan->no_recmd = $_PUT['no_recmd'];
         $rawat_jalan->nrp = $_PUT['nrp'];
@@ -86,8 +86,8 @@ switch ($method) {
         
         if ($id > 0) {
             $rawat_jalan->update($id);
-        } elseif ($nrp != "") {
-            $rawat_jalan->update_by_nrp($nrp);
+        } elseif ($no_recmd != "") {
+            $rawat_jalan->update_by_no_recmd($no_recmd);
         } else {
             // Handle invalid request
         } 
@@ -111,14 +111,14 @@ switch ($method) {
         if (isset($_GET['id'])) {
             $id = $_GET['id'];
         }
-        if (isset($_GET['nrp'])) {
-            $nrp = $_GET['nrp'];
+        if (isset($_GET['no_recmd'])) {
+            $no_recmd = $_GET['no_recmd'];
         }
         
         if ($id > 0) {
             $rawat_jalan->delete($id);
-        } elseif ($nrp != "") {
-            $rawat_jalan->delete_by_nrp($nrp);
+        } elseif ($no_recmd != "") {
+            $rawat_jalan->delete_by_no_recmd($no_recmd);
         } else {
             // Handle invalid request
         } 
